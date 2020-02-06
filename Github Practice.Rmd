@@ -14,3 +14,17 @@ p = 384
 z = (w*p)+x
 z-p
 ```
+<<<<<<< HEAD
+=======
+
+```{r}
+a=1
+b=2
+c=3
+a*b*c
+```
+
+chicken nuggets 
+
+dinosuars
+>>>>>>> 097826e2458076c431d6c9e7d188e819eae70f2f
