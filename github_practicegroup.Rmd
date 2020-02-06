@@ -5,4 +5,8 @@ output: html_notebook
 
 hey
 
+<<<<<<< HEAD
 chicken nuggets are good
+=======
+chicken nuggets with chickfila sauce
+>>>>>>> 083ef6bb015a19acb336f664a594dab1d8645f27
