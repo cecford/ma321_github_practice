@@ -15,3 +15,11 @@ z = (w*p)+x
 z-p
 ```
 
+```{r}
+a=1
+b=2
+c=3
+a*b*c
+```
+
+chicken nuggets
