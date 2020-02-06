@@ -1,0 +1,17 @@
+---
+title: "Github Practice"
+output: html_notebook
+---
+
+```{r}
+x = 5
+y = 15
+x*y
+```
+```{r}
+w = 136
+p = 384
+z = (w*p)+x
+z-p
+```
+
